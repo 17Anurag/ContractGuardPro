@@ -1,0 +1,88 @@
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# ==============================
+# Virtual Environments
+# ==============================
+venv/
+env/
+.venv/
+ENV/
+
+# ==============================
+# Environment Variables / Secrets
+# ==============================
+.env
+.env.*
+*.env
+
+# ==============================
+# Logs
+# ==============================
+*.log
+logs/
+log/
+
+# ==============================
+# OS / Editor files
+# ==============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==============================
+# Jupyter / Notebooks
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# Streamlit
+# ==============================
+.streamlit/secrets.toml
+
+# ==============================
+# Django (if used)
+# ==============================
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+
+# ==============================
+# Testing / Coverage
+# ==============================
+.coverage
+htmlcov/
+.pytest_cache/
+
+# ==============================
+# Build / Distribution
+# ==============================
+build/
+dist/
+wheelhouse/
+pip-wheel-metadata/
+
+# ==============================
+# AI / Model Cache
+# ==============================
+.cache/
+models/
+*.bin
+
+# ==============================
+# Temporary files
+# ==============================
+tmp/
+temp/

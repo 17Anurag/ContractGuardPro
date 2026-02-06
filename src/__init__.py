@@ -1,0 +1,1 @@
+# Legal Contract Assistant Core Module
